@@ -14,7 +14,7 @@ Seja bem vindo ao meu github!
    </a>
  </div>
 
- - 😎 Estudante na Estácio.
+ - 😎 Estudante da Estácio.
  - 👨🏻‍💻 Aprendendo Sistemas de Informação.
 
  <div>
