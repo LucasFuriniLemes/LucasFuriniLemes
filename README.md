@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2022/02/tenor.com/view/dev_animado-gif-25018018" width="250">
  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-
 </p>
-Seja bem vindo ao meu github!
-   
-  ## Contatos:
+Oi, meu nome é Lucas!
+
+Seja bem vindo ao meu perfil do github! 
+
+   Contatos:
    <div id="badges">
    <a href = "https://instagram.com/fl.lucas_?r=nametag">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instragram Badge"/>
@@ -16,6 +17,9 @@ Seja bem vindo ao meu github!
 
  - 😎 Estudante da Estácio.
  - 👨🏻‍💻 Aprendendo Sistemas de Informação.
+ - 📈 Trabalhando na distribuidora Gobal Wine.
+
+ 
 
  <div>
    
