@@ -18,8 +18,6 @@ Seja bem vindo ao meu perfil do github!
  - 👨🏻‍💻 Aprendendo Sistemas de Informação.
  - 📈 Trabalhando na distribuidora Gobal Wine.
 
- 
-
  <div>
    
    
