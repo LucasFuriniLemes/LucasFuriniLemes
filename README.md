@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2022/02/tenor.com/view/dev_animado-gif-25018018" width="250">
- <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+ 
 </p>
 Oi, meu nome é Lucas!
 
