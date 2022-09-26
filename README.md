@@ -29,6 +29,6 @@ Seja bem vindo ao meu perfil do github!
  <div align = "center">
 <a href="https://github.com/LucasFuriniLemes">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasFuriniLemes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFuriniLemes&layout=compact&langs_count=7&theme=dracula"/>
-
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFuriniLemes&layout=compact&langs_count=7&theme=dark"/>
+                                                                               ?username=anuraghazra&theme=dark&show_icons=true
  </div>
