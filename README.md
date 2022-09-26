@@ -1,11 +1,7 @@
 <p align="center">
  
 </p>
-Oi, meu nome é Lucas!
-
 Seja bem vindo ao meu perfil do github! 
-
-   Contatos:
    <div id="badges">
    <a href = "https://instagram.com/fl.lucas_?r=nametag">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instragram Badge"/>
@@ -32,6 +28,7 @@ Seja bem vindo ao meu perfil do github!
 
  <div align = "center">
 <a href="https://github.com/LucasFuriniLemes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFuriniLemes&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFuriniLemes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFuriniLemes&layout=compact&langs_count=7&theme=dracula"/>
+
  </div>
