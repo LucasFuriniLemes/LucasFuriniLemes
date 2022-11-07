@@ -1,4 +1,4 @@
-<h3> Seja bem vindo ao meu perfil do github! </h3> 
+<h3> Seja bem vindo! </h3> 
    <div id="badges">
    <a href = "https://instagram.com/fl.lucas_?r=nametag">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instragram Badge"/>
